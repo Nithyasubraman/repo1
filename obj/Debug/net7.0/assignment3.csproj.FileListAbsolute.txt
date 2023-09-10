@@ -1,0 +1,15 @@
+D:\gitassignment2\assignment3\bin\Debug\net7.0\assignment3.exe
+D:\gitassignment2\assignment3\bin\Debug\net7.0\assignment3.deps.json
+D:\gitassignment2\assignment3\bin\Debug\net7.0\assignment3.runtimeconfig.json
+D:\gitassignment2\assignment3\bin\Debug\net7.0\assignment3.dll
+D:\gitassignment2\assignment3\bin\Debug\net7.0\assignment3.pdb
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.csproj.AssemblyReference.cache
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.AssemblyInfoInputs.cache
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.AssemblyInfo.cs
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.csproj.CoreCompileInputs.cache
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.dll
+D:\gitassignment2\assignment3\obj\Debug\net7.0\refint\assignment3.dll
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.pdb
+D:\gitassignment2\assignment3\obj\Debug\net7.0\assignment3.genruntimeconfig.cache
+D:\gitassignment2\assignment3\obj\Debug\net7.0\ref\assignment3.dll
