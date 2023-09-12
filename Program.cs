@@ -30,6 +30,7 @@ public class Child : Bank{
         Console.WriteLine("***************************");
         Console.WriteLine("The bank name is : "+bname);
         Console.WriteLine("The bank location is : "+bloc);
+        
      }
 
 }
@@ -46,5 +47,6 @@ public class Userinteface{
         Console.WriteLine("Welcome to visit the bank details");
          Console.WriteLine("************************");
         ref1.bankdetails();
+        Console.WriteLine("finish my work");
     }
 }
